@@ -53,5 +53,14 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="UI\css\bootstrap.min.css" />
+    <Content Include="UI\css\mystyles.css" />
+    <Content Include="UI\js\app.js" />
+    <Content Include="UI\js\controller.js" />
+    <Content Include="UI\js\lib\angular.min.js" />
+    <Content Include="UI\page.html" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

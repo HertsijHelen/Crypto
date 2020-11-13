@@ -1,0 +1,13 @@
+body{
+background-color: #f7f7fa;
+margin-top: 2%;
+margin-left: 2%;
+}
+.table-bordered {
+width : 10%;
+}
+.selectedData{
+	position:fixed;
+	top:2%;
+	left:20%;
+}
